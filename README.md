@@ -1,4 +1,3 @@
 ###
-- Download all the files in the same directory
-- run the main.exe file
+The main.py file is just the .py file containing code for the game Lacunas Labyrinth
 ###
